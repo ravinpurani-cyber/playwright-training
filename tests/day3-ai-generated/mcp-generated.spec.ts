@@ -1,5 +1,5 @@
 /* AI-GENERATED — Review required */
-// Generated: Claude Sonnet 4.6 (MCP browser analysis) │ Date: 2026-05-22
+// Generated: Claude Opus 4.7 (MCP browser analysis) │ Date: 2026-05-28
 
 import { test, expect } from '@playwright/test';
 
