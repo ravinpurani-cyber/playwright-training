@@ -11,6 +11,7 @@
   "include": [
     "tests/**/*.ts",
     "utils/**/*.ts",
+    "scripts/**/*.ts",
     "playwright.config.ts"
   ],
   "exclude": [
